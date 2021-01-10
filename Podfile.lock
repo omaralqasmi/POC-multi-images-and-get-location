@@ -1,0 +1,20 @@
+PODS:
+  - BSImagePicker (3.3.1)
+  - LocationPickerViewController (3.4)
+
+DEPENDENCIES:
+  - BSImagePicker (~> 3.1)
+  - LocationPickerViewController
+
+SPEC REPOS:
+  trunk:
+    - BSImagePicker
+    - LocationPickerViewController
+
+SPEC CHECKSUMS:
+  BSImagePicker: 0fe04b574d4d6b81093785d2af6c26227efc8428
+  LocationPickerViewController: 4f33d63587bca682267a09779de2b2e09cf5b8e2
+
+PODFILE CHECKSUM: 5bdadfc91e3295643f31bcd7261fd2417f54ef54
+
+COCOAPODS: 1.9.3

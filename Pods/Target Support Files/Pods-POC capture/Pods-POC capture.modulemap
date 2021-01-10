@@ -1,0 +1,6 @@
+framework module Pods_POC_capture {
+  umbrella header "Pods-POC capture-umbrella.h"
+
+  export *
+  module * { export * }
+}
